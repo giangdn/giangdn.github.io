@@ -1,0 +1,12 @@
+{
+  "name": "giangdn.github.io",
+  "version": "1.0.0",
+  "bin": {
+    "convert": "bin.js"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "shelljs": "^0.8.3",
+    "showdown": "^1.9.0"
+  }
+}
